@@ -40,7 +40,7 @@ const App = () => {
 						<span>{password}</span>
 						<button
 							onClick={handleCopy}
-							className='px-3 py-2 rounded bg-[#0e131c]'
+							className='px-3 py-2 rounded bg-[#0e131c	]'
 						>
 							{isCopied ? "Copied!" : "Copy"}
 						</button>
