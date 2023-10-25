@@ -40,9 +40,6 @@ npm start or yarn start
 - You can change the default password length by moving the slider.
 - Check or uncheck the checkboxes to include or exclude character types in your password.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
